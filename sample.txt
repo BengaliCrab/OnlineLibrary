@@ -1,1 +1,4 @@
+
 Adding soem content here
+
+Verifying git status command
